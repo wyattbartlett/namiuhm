@@ -48,6 +48,7 @@ body {
 
 .main.column img {
   width: auto;
+  height: 70%;
   max-width: 100%;
 }
 
@@ -64,4 +65,5 @@ body {
 #footer .column h4 {
   border-bottom: 1px solid #ffffff;
   padding-bottom: 5px;
+  color: white;
 }
